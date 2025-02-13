@@ -882,7 +882,7 @@ GameObject:
   - component: {fileID: 1117330983}
   - component: {fileID: 1117330984}
   m_Layer: 0
-  m_Name: 03_Lerp1
+  m_Name: AS2_FINAL
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -900,7 +900,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 16a1445d4d0e04e2db4b694f1a66b1e8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  newMaterial: {fileID: 0}
+  newMaterial: {fileID: 2100000, guid: b18647e9e71bf4aa2962d9919882766e, type: 2}
 --- !u!4 &1117330982
 Transform:
   m_ObjectHideFlags: 0
